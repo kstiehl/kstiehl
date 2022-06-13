@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin Stiehl</h1>
 <h3 align="center">DEVOPS ENGINEER</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kstiehl&label=Profile%20views&color=0e75b6&style=flat" alt="kstiehl" /> </p>
-
 - 🌱 I’m currently learning **eBPF tracing.**
 
 - 💬 Ask me about **monitoring, working in agile teams**
